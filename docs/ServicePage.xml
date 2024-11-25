@@ -1,0 +1,17 @@
+<SERVICES>
+    <SERVICE>
+        <SNAME>Full Hiking Trip</SNAME>
+        <STIME> The hike will be a full Eight Hours</STIME>
+        <SCATEGORY>Climbing Adventures</SCATEGORY>
+    </SERVICE>
+   <SERVICE>
+        <SNAME>Top rope climbing</SNAME>
+        <STIME>Three Hours</STIME>
+        <SCATEGORY>Climbing Adventures</SCATEGORY>
+    </SERVICE>
+   <SERVICE>
+        <SNAME>Small Trip</SNAME>
+        <STIME>Four Hours</STIME>
+        <sCATEGORY>Climbing Adventures</sCATEGORY>
+    </SERVICE>
+</SERVICES>
