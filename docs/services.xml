@@ -12,6 +12,6 @@
    <SERVICE>
         <SNAME>Small Trip</SNAME>
         <STIME>Four Hours</STIME>
-        <sCATEGORY>Climbing Adventures</sCATEGORY>
+        <SCATEGORY>Climbing Adventures</SCATEGORY>
     </SERVICE>
 </SERVICES>
