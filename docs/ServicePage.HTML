@@ -36,7 +36,7 @@ function myFunction(xml) {
 // -- WHAT IS LOADED INTO THE DIVCOLS VARIABLE
 //  --  console.log(divcols);
 // ---------------------------------------
-	var data = xmlDoc.getElementsByTagName("SERVICES/SERVICE");
+	var data = xmlDoc.getElementsByTagName("SERVICE");
 	for (i = 0; i <data.length; i++) { 
 		divcols += '<div class="row">';
 		divcols += '<div class="col-md-4">' + data[i].getElementsByTagName("SNAME")[0].childNodes[0].nodeValue + '</div>';
